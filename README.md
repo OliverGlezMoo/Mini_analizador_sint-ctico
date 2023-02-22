@@ -1,8 +1,10 @@
-# Mini_analizador_sintactico
+# Mini_Analizador_Sintáctico
 
 ## Descripción
 
 Análisis sintáctico, es el proceso de analizar una secuencia de entrada para determinar su estructura gramatical según una determinada función formal
+
+Analizador sintáctico, analiza una cadena o texto en componentes sintácticos lógicos) es un programa que normalmente es parte de un compilador. El compilador se asegura de que el código se traduce correctamente a un lenguaje ejecutable.
 
 ## Objetivo
 
