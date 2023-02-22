@@ -7,5 +7,6 @@ Análisis sintáctico, es el proceso de analizar una secuencia de entrada para d
 ## Objetivo
 
 Generar un algoritmo para analizar de manera sintactica las siguiente cadenas de caracteres.
+
 Cadena 1: hola+mundo
 Cadena 2: a+b+c+d+e+f
