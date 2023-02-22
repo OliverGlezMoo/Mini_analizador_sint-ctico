@@ -1,1 +1,3 @@
-# Mini_analizador_sint-ctico
+# Mini_analizador_sintactico
+
+## Descripción
